@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "XQ7UWB6KR4.com.wcLinksdemo.test" ],
+        "components": [
+          {
+            "/": "/invite/*"
+          },
+          {
+            "/": "/invite_test/invite/*"
+          }
+        ]
+      }
+    ]
+  }
+}
